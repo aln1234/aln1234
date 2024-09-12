@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am working on a health care management system using next js and appwrite<br>I am looking to collaborate on open source project<br>I am looking for help regarding learning three js<br>I am currently learning three js<br>I love hiking swimming 
+I’m a Front-End Developer with a strong interest in Data Science. I have background in 3D animation and
+digital media. With my technical expertise and creative vision, I boost web traffic, user engagement, and
+conversion rates. I combine data analysis with front-end development to create innovative, data-driven
+solutions that are both visually appealing and effective. I’m an expert in using data science to build user-
+friendly solutions that deliver measurable results.
 
 
 ## 🌐 Socials:
